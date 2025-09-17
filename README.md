@@ -2,7 +2,7 @@
 
 Data Analyst | **Python**, **SQL**, **Databricks**, **Power BI**, **AI**
 
-Already developed in: HTML, CSS, JavaScript, Node.js, Vue.js, Python, Flask, Java
+Already developed in: HTML, CSS, JavaScript, Node.js, Vue.js, EJS, Python, Flask, Java
 
 ### 🌍 Open Source Contributions
 
