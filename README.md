@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello, I'm Mateus! 👋😎
 
-<!--
-**bertuolmateus/bertuolmateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | **Python**, **SQL**, **Databricks**, **Power BI**, **AI**
 
-Here are some ideas to get you started:
+Already developed in: HTML, CSS, JavaScript, Node.js, Vue.js, Python, Flask, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Open Source Contributions
+
+- [Online Chat](https://github.com/riquecodes/basic-chat-online)  
+  🎨 Front-end development
+  
+- [Collaborative Recipe Blog](https://github.com/riquecodes/CollaborativeRecipeBlog)  
+  🎨 Front-end development - 🗄️ Database connection 
+
+- [API Financial](https://github.com/riquecodes/APIFinancial)  
+  🎨 Front-end development 
