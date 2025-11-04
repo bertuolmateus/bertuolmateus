@@ -1,4 +1,4 @@
-## Hello, I'm Mateus! 👋😎
+## Hello, I'm Mateus! 
 
 Data Analyst | **Python**, **SQL**, **Databricks**, **Power BI**, **AI**
 
